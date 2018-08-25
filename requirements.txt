@@ -1,0 +1,6 @@
+et-xmlfile==1.0.1
+jdcal==1.4
+openpyxl==2.5.4
+pexpect==4.6.0
+Pillow==5.1.0
+ptyprocess==0.6.0
